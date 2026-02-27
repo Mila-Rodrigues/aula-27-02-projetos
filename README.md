@@ -1,5 +1,5 @@
 # aula-27-02-projetos
-### projetos das matérias senai 1º semestre
+### projetos das matérias senai 1º semestre (Ana Luisa, Camila e Emanuella) 1DS_SS
 
 1- Logica de programação e algoritmos:\
 Comandos de Python:
